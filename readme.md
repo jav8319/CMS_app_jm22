@@ -14,7 +14,7 @@ This application stores data from employees inside a preset database named compa
 
 ## Installation  
 
- First make sure node and mysql are available in the local computer. Dowload the application,then, install the node modules by opening a terminal where the app was stored in your local computer and type "npm install".Next, open mysql shell in the terminal by typing "mysql -u root -p" password: "Password1/", run the commands "source schema.sql" following by "source seeds.sql"
+ First make sure node and mysql are available in the local computer. Dnowload the application,then, install the node modules by opening a terminal where the app was stored in your local computer and type "npm install".Next, open mysql shell in the terminal by typing "mysql -u root -p" password: "Password1/", run the commands "source schema.sql" following by "source seeds.sql"
 
 ## Usage  
 
@@ -23,7 +23,7 @@ see usage demo by clicking the link https://drive.google.com/file/d/1Zc855VtHJKy
 ## Questions  
 
 I can be reached at <github> or  [github]https://github.com/jav8319>
-
+git 
 ## License  
 
 none
