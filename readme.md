@@ -23,7 +23,7 @@ see usage demo by clicking the link https://drive.google.com/file/d/1Zc855VtHJKy
 
 ## Questions  
 
-I can be reached at <github> or  [github]https://github.com/jav8319>
+I can be reached at <github> or  [github]https://github.com/jav8319
 git 
 ## License  
 
